@@ -277,6 +277,7 @@ public class BluetoothLeClass {
             }
         }
 
+        /// 测试 写入数据 回调处理
         /**
          * 接收到硬件返回的数据
          * */

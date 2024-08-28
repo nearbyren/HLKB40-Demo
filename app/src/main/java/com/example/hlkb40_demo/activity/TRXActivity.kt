@@ -456,6 +456,8 @@ class TRXActivity : BaseActivity(), View.OnClickListener{
         bindServerSubNofify()
     }
 
+
+    //测试 读数据操作
     // 读操作的回调
     private val OnDataAvailableListener = object : BluetoothLeClass.OnDataAvailableListener {
         @RequiresApi(Build.VERSION_CODES.N)
